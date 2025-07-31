@@ -1,8 +1,9 @@
 # OSSLab2025
-## Lab Exercise 1
 Name: Sarvagya Gupta
 Roll Number:231B292
 Email:231B292@juetguna.in
+
+## Lab Exercise 1: GitHub Account Setup and Basic Git Workflow
 
 <Sum Of Two Number's>
 
